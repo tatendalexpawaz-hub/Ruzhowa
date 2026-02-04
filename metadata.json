@@ -1,0 +1,8 @@
+{
+  "name": "Rozhowa Boran & Tuli Stud Farms",
+  "description": "A professional, modern agricultural website showcasing premium cattle and sheep genetics, commercial management, and agricultural training services.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
